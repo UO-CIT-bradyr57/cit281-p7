@@ -15,7 +15,8 @@ I learned how to customize a GitHub repository to create a page and showcase my 
 
 ### Highlights from the Project
 
-Below is some sample code from the project, that highlights the main points and functions associated with it. 
+Below is the dashboard of my organization that highlights the repositories and information regarding my project. 
 
+![git-p7](https://user-images.githubusercontent.com/105069118/171968142-bfd4b603-5579-4a90-84f0-cdf9e2f72a37.png)
 
 ### [Back to the Home Page](http://uo-cit-bradyr57.github.io/bradyr57.github.io/)
